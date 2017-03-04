@@ -105,6 +105,8 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
     <Content Include="Engine\Creation.js" />
+    <Content Include="Shaders\Passthrough.frag" />
+    <None Include="Shaders\Passthrough.vert" />
     <Content Include="web.config" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
